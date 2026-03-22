@@ -1,0 +1,825 @@
+{
+  "id": "chapter2",
+  "chapter": "Chapter 2",
+  "title": "The Man With the Scar",
+  "author": "W. Somerset Maugham",
+  "subject": "Alternative English (AEC)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which field of study did W. Somerset Maugham pursue professionally before achieving literary fame?",
+      "options": [
+        "Medicine",
+        "Diplomacy",
+        "Law",
+        "Theology"
+      ],
+      "correct": "Medicine",
+      "explanation": "Maugham trained as a physician and successfully completed his studies, though he abandoned the practice after his first novel's success."
+    },
+    {
+      "id": 2,
+      "question": "What literary device is most central to the structural organization of 'The Man With the Scar'?",
+      "options": [
+        "Allegorical fable",
+        "Frame narrative",
+        "Epistolary narrative",
+        "Stream of consciousness"
+      ],
+      "correct": "Frame narrative",
+      "explanation": "The story employs a 'story-within-a-story' structure, where a narrator recounts a tale told to him by an acquaintance."
+    },
+    {
+      "id": 3,
+      "question": "How does the narrator characterize the physical appearance of the man with the scar at the Palace Hotel?",
+      "options": [
+        "A juxtaposition of joviality and violent history",
+        "An elderly man whose features have been erased by time",
+        "A meticulously clean but impoverished gentleman",
+        "An intimidating and gaunt military figure"
+      ],
+      "correct": "A juxtaposition of joviality and violent history",
+      "explanation": "The narrator notes the oddity of a 'terrible wound' appearing on a 'round, fat and good-humoured face.'"
+    },
+    {
+      "id": 4,
+      "question": "In the account of the night preceding the execution, what serves as a testament to the rebel's composure?",
+      "options": [
+        "Writing a series of farewell letters to his troops",
+        "Deep meditation and religious prayer",
+        "His refusal to accept a final meal",
+        "Engaging in a high-stakes card game using matches"
+      ],
+      "correct": "Engaging in a high-stakes card game using matches",
+      "explanation": "The prisoners played poker with matches for chips, highlighting their attempt to maintain normalcy in the face of death."
+    },
+    {
+      "id": 5,
+      "question": "The execution of the four subordinates is described using imagery that evokes:",
+      "options": [
+        "The fluidity and grace of a choreographed dance",
+        "The solemnity and stillness of a religious ritual",
+        "The chaotic and loud environment of a battlefield",
+        "The mechanical and artificial nature of a puppet show"
+      ],
+      "correct": "The mechanical and artificial nature of a puppet show",
+      "explanation": "Maugham uses the simile 'as though they were puppets in a toy theatre' to describe their unnatural fall."
+    },
+    {
+      "id": 6,
+      "question": "What is the primary motivation cited by the rebel for the sudden act of violence against his wife?",
+      "options": [
+        "A desire to spare her from the pain of his death",
+        "Vengeance for her perceived betrayal",
+        "Profound affection and devotion",
+        "A momentary lapse into insanity"
+      ],
+      "correct": "Profound affection and devotion",
+      "explanation": "When asked why he did it, the rebel simply replies, 'I loved her,' presenting the murder as a paradoxical act of love."
+    },
+    {
+      "id": 7,
+      "question": "The General's decision to pardon the rebel is predicated on which concept?",
+      "options": [
+        "Legal loopholes found in the court-martial documents",
+        "A sense of shared military brotherhood and honor",
+        "Fear of a renewed uprising if the rebel became a martyr",
+        "Sympathy for the man's sudden widower status"
+      ],
+      "correct": "A sense of shared military brotherhood and honor",
+      "explanation": "The General states he honors the rebel 'as one brave man must honour another,' viewing the killing as a 'noble gesture.'"
+    },
+    {
+      "id": 8,
+      "question": "The ultimate revelation regarding the origin of the scar serves to:",
+      "options": [
+        "Undermine the gravity and 'high-flown' nature of the previous story",
+        "Clarify the specific battle in which the rebel was injured",
+        "Suggest that the friend's entire narrative was a fabrication",
+        "Validate the narrator's initial heroic assumptions"
+      ],
+      "correct": "Undermine the gravity and 'high-flown' nature of the previous story",
+      "explanation": "The 'burst bottle of ginger ale' creates an anticlimactic irony that punctures the romanticism of the rebel's past."
+    },
+    {
+      "id": 9,
+      "question": "How does the narrator describe the prose and style of the Guatemalan friend who tells the story?",
+      "options": [
+        "Highly sophisticated and grammatically perfect English",
+        "Somewhat hyperbolic and elevated in tone",
+        "Brief, curt, and focused only on the facts",
+        "Clinical and devoid of any emotional resonance"
+      ],
+      "correct": "Somewhat hyperbolic and elevated in tone",
+      "explanation": "The narrator characterizes the friend's speech as 'rather high-flown language,' which he feels suits the dramatic tale."
+    },
+    {
+      "id": 10,
+      "question": "According to the friend, what was the primary reason the rebel's revolution failed?",
+      "options": [
+        "The unexpected arrival of government reinforcements",
+        "The exhaustion and desertion of his troops",
+        "The depletion of their supply of munitions",
+        "A tactical error by the rebel's second-in-command"
+      ],
+      "correct": "The depletion of their supply of munitions",
+      "explanation": "The friend notes that 'if his ammunition hadn't given out,' the rebel would likely be the minister of war."
+    },
+    {
+      "id": 11,
+      "question": "Based on the text's analysis, what does the 'Palace Hotel' setting represent in the frame of the story?",
+      "options": [
+        "The height of Central American luxury and exclusivity",
+        "A refuge for those fleeing from the law in Nicaragua",
+        "A site of ongoing political intrigue and espionage",
+        "A crossroads where extraordinary histories meet mundane reality"
+      ],
+      "correct": "A crossroads where extraordinary histories meet mundane reality",
+      "explanation": "It is the place where the narrator witnesses the 'shabby' reality of a man with a supposedly 'heroic' past."
+    },
+    {
+      "id": 12,
+      "question": "What is the narrator's reaction to the man's refusal to buy lottery tickets?",
+      "options": [
+        "He observes the man's consistent, unbothered politeness",
+        "He feels insulted by the man's persistence",
+        "He is curious about the man's financial desperation",
+        "He believes the man is a nuisance to the hotel guests"
+      ],
+      "correct": "He observes the man's consistent, unbothered politeness",
+      "explanation": "The narrator notes that the man passes on with the 'same smile' when no notice is taken of him."
+    },
+    {
+      "id": 13,
+      "question": "Maugham's 'ironic detachment' is best exemplified in this story by:",
+      "options": [
+        "The anticlimactic explanation of the central visual mystery",
+        "The narrator's refusal to buy a lottery ticket",
+        "The friend's kind treatment of the ruffian general",
+        "The graphic description of the wife's death"
+      ],
+      "correct": "The anticlimactic explanation of the central visual mystery",
+      "explanation": "By resolving the 'terrible' scar with a burst soda bottle, Maugham detachedly mocks the reader's expectation for a tragic origin."
+    },
+    {
+      "id": 14,
+      "question": "How many men, in total, were sentenced to face the firing squad alongside the general?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": "Four",
+      "explanation": "The text states there were 'five of them altogether,' implying the general had four companions in the cell."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following describes the wife's appearance as she entered the courtyard?",
+      "options": [
+        "A ragged woman exhausted from long travel",
+        "An older woman dressed in colorful traditional attire",
+        "A defiant rebel leader shouting for her husband's release",
+        "A figure of pale beauty gripped by intense distress"
+      ],
+      "correct": "A figure of pale beauty gripped by intense distress",
+      "explanation": "She is described with a 'dead white' face, 'enormous eyes,' and 'agony on her beautiful face.'"
+    },
+    {
+      "id": 16,
+      "question": "What did the rebel do immediately after the first time he kissed his wife in the courtyard?",
+      "options": [
+        "He handed her a lottery ticket for her future",
+        "He whispered a secret message in her ear",
+        "He fatally wounded her with a concealed blade",
+        "He pleaded with the General to spare her life"
+      ],
+      "correct": "He fatally wounded her with a concealed blade",
+      "explanation": "He drew a knife from his shirt and 'stabbed her in the neck' during their embrace."
+    },
+    {
+      "id": 17,
+      "question": "The narrator's final line, 'I never liked it,' refers to:",
+      "options": [
+        "The rebel's violent act",
+        "The high-flown Spanish translation",
+        "Ginger ale",
+        "The Palace Hotel's cocktails"
+      ],
+      "correct": "Ginger ale",
+      "explanation": "After learning it caused the horrific scar, the narrator dryly remarks on his dislike for the beverage."
+    },
+    {
+      "id": 18,
+      "question": "Which novel by Maugham is mentioned as being among his most famous works?",
+      "options": [
+        "The Great Gatsby",
+        "A Farewell to Arms",
+        "The Moon and Sixpence",
+        "Liza of Lambeth"
+      ],
+      "correct": "The Moon and Sixpence",
+      "explanation": "This 1919 novel is listed alongside his most significant and widely read literary contributions."
+    },
+    {
+      "id": 19,
+      "question": "What is the implied state of the man with the scar during his daily visits to the hotel?",
+      "options": [
+        "Aggressive and demanding of attention",
+        "Solemn and deeply traumatized",
+        "Mildly intoxicated",
+        "Alert and scouting for a new rebellion"
+      ],
+      "correct": "Mildly intoxicated",
+      "explanation": "The narrator observes, 'I think he was for the most part a little drunk.'"
+    },
+    {
+      "id": 20,
+      "question": "Why did the rebel need to ask for five minutes before his execution?",
+      "options": [
+        "To wait for his ammunition to be delivered",
+        "To make a final political speech to the crowd",
+        "To finish the poker game with his staff",
+        "To say goodbye to his wife waiting at the gate"
+      ],
+      "correct": "To say goodbye to his wife waiting at the gate",
+      "explanation": "He specifically requested to see her after the General asked if the condemned men had any final wishes."
+    },
+    {
+      "id": 21,
+      "question": "In the context of the story, what does the term 'anticlimactic irony' refer to?",
+      "options": [
+        "The hero becoming a common criminal",
+        "The rebel surviving while his friends died",
+        "The General's inability to carry out the death sentence",
+        "The triviality of the cause of a seemingly significant injury"
+      ],
+      "correct": "The triviality of the cause of a seemingly significant injury",
+      "explanation": "The 'anticlimax' occurs when the grand, dramatic expectations for the scar's origin are punctured by a mundane accident."
+    },
+    {
+      "id": 22,
+      "question": "What is the narrator's nationality, according to the biographical information provided?",
+      "options": [
+        "Nicaraguan",
+        "British",
+        "French",
+        "Guatemalan"
+      ],
+      "correct": "British",
+      "explanation": "Maugham was a British novelist and playwright who often wrote from a British perspective."
+    },
+    {
+      "id": 23,
+      "question": "The friend describes the rebel as a 'ruffian' and a 'bandit.' Why then does he give him money?",
+      "options": [
+        "He is being blackmailed by the former general",
+        "He wants to buy all the lottery tickets to win",
+        "He believes the man is 'not a bad fellow'",
+        "He is a secret supporter of the Nicaraguan rebellion"
+      ],
+      "correct": "He believes the man is 'not a bad fellow'",
+      "explanation": "Despite the man's criminal past, the friend holds a degree of sympathy for his current situation."
+    },
+    {
+      "id": 24,
+      "question": "What does the rebel do after the General tells him he is free to go to the frontier?",
+      "options": [
+        "He thanks the General for his mercy",
+        "He attempts to attack the General in a final act of rebellion",
+        "He marches to the waiting car in silence",
+        "He weeps over the body of his wife"
+      ],
+      "correct": "He marches to the waiting car in silence",
+      "explanation": "He maintains his dignity and silence as he is escorted away between two soldiers."
+    },
+    {
+      "id": 25,
+      "question": "What is the tone of the friend's narrative regarding the events in the courtyard?",
+      "options": [
+        "Satirical and mocking",
+        "Romantic and dramatic",
+        "Scientific and objective",
+        "Critical and condemnatory of the violence"
+      ],
+      "correct": "Romantic and dramatic",
+      "explanation": "The description of the wife's beauty, the passion of the kiss, and the 'noble gesture' reflects a romanticized perspective."
+    },
+    {
+      "id": 26,
+      "question": "The description of the soldiers 'giving a gasp of surprise' at the wife's beauty suggests:",
+      "options": [
+        "The universal impact of her extreme distress and grace",
+        "They were unaccustomed to seeing women in the prison",
+        "They recognized her as a famous Nicaraguan actress",
+        "A tactical distraction planned by the rebels"
+      ],
+      "correct": "The universal impact of her extreme distress and grace",
+      "explanation": "Even the 'indifferent' soldiers, hardened by their duty, are momentarily moved by her appearance."
+    },
+    {
+      "id": 27,
+      "question": "Who is the writer of the story 'The Man with the Scar'?",
+      "options": [
+        "Bhisham Sahani",
+        "William Somerset Maugham",
+        "Rabindranath Tagore",
+        "Jayanta Mahapatra"
+      ],
+      "correct": "William Somerset Maugham",
+      "explanation": null
+    },
+    {
+      "id": 28,
+      "question": "Where does the story 'The Man with the Scar' take place?",
+      "options": [
+        "Mexico City",
+        "Guatemala City",
+        "San Salvador",
+        "Havana"
+      ],
+      "correct": "Guatemala City",
+      "explanation": null
+    },
+    {
+      "id": 29,
+      "question": "What is the occupation of the man with the scar?",
+      "options": [
+        "A hotel manager",
+        "A lottery ticket seller",
+        "A bartender",
+        "A soldier"
+      ],
+      "correct": "A lottery ticket seller",
+      "explanation": null
+    },
+    {
+      "id": 30,
+      "question": "Why did the man with the scar come into the Palace Hotel every day?",
+      "options": [
+        "To drink wine",
+        "To meet his friends",
+        "To sell lottery tickets",
+        "To eat food"
+      ],
+      "correct": "To sell lottery tickets",
+      "explanation": null
+    },
+    {
+      "id": 31,
+      "question": "How did the man get his scar?",
+      "options": [
+        "Due to a bottle that burst when it was opening",
+        "Due to a formidable wound",
+        "Caused by a sabre",
+        "Caused by a fragment of a shell"
+      ],
+      "correct": "Due to a bottle that burst when it was opening",
+      "explanation": null
+    },
+    {
+      "id": 32,
+      "question": "What distinctive feature does the man with the scar have?",
+      "options": [
+        "A missing hand",
+        "A prominent scar",
+        "Unusual clothing",
+        "A unique hairstyle"
+      ],
+      "correct": "A prominent scar",
+      "explanation": null
+    },
+    {
+      "id": 33,
+      "question": "How is the man with the scar's physical appearance described?",
+      "options": [
+        "Lean and tall",
+        "Round, fat, and good-humoured",
+        "Tall and muscular",
+        "Skinny and disheveled"
+      ],
+      "correct": "Round, fat, and good-humoured",
+      "explanation": null
+    },
+    {
+      "id": 34,
+      "question": "What type of attire does the man consistently wear?",
+      "options": [
+        "A formal suit",
+        "A shabby grey suit, khaki shirt, and a sombrero",
+        "Casual beachwear",
+        "Military uniform"
+      ],
+      "correct": "A shabby grey suit, khaki shirt, and a sombrero",
+      "explanation": null
+    },
+    {
+      "id": 35,
+      "question": "How does the man interact with customers at the Palace Hotel?",
+      "options": [
+        "He aggressively sells tickets",
+        "He engages them with a smile and mentions his numbers",
+        "He sits quietly at the bar",
+        "He refuses to serve anyone"
+      ],
+      "correct": "He engages them with a smile and mentions his numbers",
+      "explanation": null
+    },
+    {
+      "id": 36,
+      "question": "What can be inferred about the man's lifestyle?",
+      "options": [
+        "He is wealthy and successful",
+        "He struggles financially and often appears under the influence of alcohol",
+        "He is well-respected in the community",
+        "He is a tourist"
+      ],
+      "correct": "He struggles financially and often appears under the influence of alcohol",
+      "explanation": null
+    },
+    {
+      "id": 37,
+      "question": "What is the overall tone of the narrator's description of the man?",
+      "options": [
+        "Admiring",
+        "Critical",
+        "Indifferent",
+        "Nostalgic"
+      ],
+      "correct": "Critical",
+      "explanation": null
+    },
+    {
+      "id": 38,
+      "question": "What does the man's rolling walk suggest?",
+      "options": [
+        "He is clumsy",
+        "He is accustomed to walking long distances",
+        "He is injured",
+        "He is in a hurry"
+      ],
+      "correct": "He is accustomed to walking long distances",
+      "explanation": null
+    },
+    {
+      "id": 39,
+      "question": "What is the significance of his shabby clothing?",
+      "options": [
+        "It indicates his wealth",
+        "It reflects his carefree attitude",
+        "It suggests his poor financial situation",
+        "It shows his love for fashion"
+      ],
+      "correct": "It suggests his poor financial situation",
+      "explanation": null
+    },
+    {
+      "id": 40,
+      "question": "How does the narrator perceive the man's interactions?",
+      "options": [
+        "Charming and engaging",
+        "Sad and lonely",
+        "Rude and dismissive",
+        "Professional and efficient"
+      ],
+      "correct": "Sad and lonely",
+      "explanation": null
+    },
+    {
+      "id": 41,
+      "question": "What does the phrase 'trifle the worse for liquor' imply?",
+      "options": [
+        "He is sober",
+        "He is occasionally drunk",
+        "He is a heavy drinker",
+        "He never drinks"
+      ],
+      "correct": "He is occasionally drunk",
+      "explanation": null
+    },
+    {
+      "id": 42,
+      "question": "What time of day does the man visit the hotel?",
+      "options": [
+        "Morning",
+        "Afternoon",
+        "Cocktail time",
+        "Late night"
+      ],
+      "correct": "Cocktail time",
+      "explanation": null
+    },
+    {
+      "id": 43,
+      "question": "Where does most of the story take place?",
+      "options": [
+        "A local bar",
+        "A restaurant",
+        "The Palace Hotel",
+        "A marketplace"
+      ],
+      "correct": "The Palace Hotel",
+      "explanation": null
+    },
+    {
+      "id": 44,
+      "question": "Where is the narrator standing when he meets the man?",
+      "options": [
+        "At a café",
+        "In the lobby",
+        "At the bar",
+        "Outside the hotel"
+      ],
+      "correct": "At the bar",
+      "explanation": null
+    },
+    {
+      "id": 45,
+      "question": "How does the narrator react to the lottery offer?",
+      "options": [
+        "Buys a ticket",
+        "Shakes his head in refusal",
+        "Accepts out of curiosity",
+        "Argues with the man"
+      ],
+      "correct": "Shakes his head in refusal",
+      "explanation": null
+    },
+    {
+      "id": 46,
+      "question": "How does the narrator's companion respond to the man?",
+      "options": [
+        "Ignores him",
+        "Nods affably",
+        "Refuses to buy",
+        "Criticizes him"
+      ],
+      "correct": "Nods affably",
+      "explanation": null
+    },
+    {
+      "id": 47,
+      "question": "What language does the narrator use to greet the general?",
+      "options": [
+        "English",
+        "French",
+        "Spanish",
+        "Italian"
+      ],
+      "correct": "Spanish",
+      "explanation": null
+    },
+    {
+      "id": 48,
+      "question": "How does the general describe his business?",
+      "options": [
+        "Thriving",
+        "Not so bad, but could be worse",
+        "Very successful",
+        "Very poor"
+      ],
+      "correct": "Not so bad, but could be worse",
+      "explanation": null
+    },
+    {
+      "id": 49,
+      "question": "What does the general order at the bar?",
+      "options": [
+        "A cocktail",
+        "A beer",
+        "A brandy",
+        "A whiskey"
+      ],
+      "correct": "A brandy",
+      "explanation": null
+    },
+    {
+      "id": 50,
+      "question": "What does the narrator observe about the general?",
+      "options": [
+        "He is wealthy",
+        "He has a terrific scar on his face",
+        "He is jovial",
+        "He looks unwell"
+      ],
+      "correct": "He has a terrific scar on his face",
+      "explanation": null
+    },
+    {
+      "id": 51,
+      "question": "What is the narrator's opinion about the scar?",
+      "options": [
+        "It enhances his appearance",
+        "It doesn't add to his beauty",
+        "It makes him look wise",
+        "It is unnoticeable"
+      ],
+      "correct": "It doesn't add to his beauty",
+      "explanation": null
+    },
+    {
+      "id": 52,
+      "question": "From which country is the general originally?",
+      "options": [
+        "Guatemala",
+        "Nicaragua",
+        "Mexico",
+        "El Salvador"
+      ],
+      "correct": "Nicaragua",
+      "explanation": null
+    },
+    {
+      "id": 53,
+      "question": "How is the general's character described?",
+      "options": [
+        "Trustworthy",
+        "A ruffian and a bandit, but not a bad fellow",
+        "A noble leader",
+        "A cruel tyrant"
+      ],
+      "correct": "A ruffian and a bandit, but not a bad fellow",
+      "explanation": null
+    },
+    {
+      "id": 54,
+      "question": "What would the general have achieved if his ammunition hadn't run out?",
+      "options": [
+        "Escaped to the frontier",
+        "Become Minister of War",
+        "Retired peacefully",
+        "Won a decisive battle"
+      ],
+      "correct": "Become Minister of War",
+      "explanation": null
+    },
+    {
+      "id": 55,
+      "question": "What happened after the general was captured?",
+      "options": [
+        "He was exiled immediately",
+        "He became a hero",
+        "He was tried by court-martial and sentenced to death",
+        "He managed to escape"
+      ],
+      "correct": "He was tried by court-martial and sentenced to death",
+      "explanation": null
+    },
+    {
+      "id": 56,
+      "question": "What did the prisoners do in jail the night before the execution?",
+      "options": [
+        "Planned an escape",
+        "Played poker with matches",
+        "Discussed their future",
+        "Wrote farewell letters"
+      ],
+      "correct": "Played poker with matches",
+      "explanation": null
+    },
+    {
+      "id": 57,
+      "question": "What does 'summary in those countries' suggest?",
+      "options": [
+        "Fair and transparent justice",
+        "Quick and harsh justice",
+        "Slow and drawn-out justice",
+        "Unpredictable justice"
+      ],
+      "correct": "Quick and harsh justice",
+      "explanation": null
+    },
+    {
+      "id": 58,
+      "question": "How many men were lined up for execution?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": "Five",
+      "explanation": null
+    },
+    {
+      "id": 59,
+      "question": "Why was the execution delayed?",
+      "options": [
+        "The firing squad was still being assembled",
+        "They were awaiting the general commanding the troops",
+        "There was a shortage of ammunition",
+        "They were waiting for official witnesses"
+      ],
+      "correct": "They were awaiting the general commanding the troops",
+      "explanation": null
+    },
+    {
+      "id": 60,
+      "question": "Who is the general mentioned in the story?",
+      "options": [
+        "General Martinez",
+        "General San Ignacio",
+        "General Lopez",
+        "General Rivera"
+      ],
+      "correct": "General San Ignacio",
+      "explanation": null
+    },
+    {
+      "id": 61,
+      "question": "What did the condemned man request before his execution?",
+      "options": [
+        "A final meal",
+        "A lawyer",
+        "To say goodbye to his wife",
+        "A drink"
+      ],
+      "correct": "To say goodbye to his wife",
+      "explanation": null
+    },
+    {
+      "id": 62,
+      "question": "How many prisoners were court-martialed?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": "Five",
+      "explanation": null
+    },
+    {
+      "id": 63,
+      "question": "Where did the narrator first meet the man with the scar?",
+      "options": [
+        "Mexico City",
+        "Bar of the Palace Hotel, Guatemala City",
+        "San Salvador",
+        "Havana"
+      ],
+      "correct": "Bar of the Palace Hotel, Guatemala City",
+      "explanation": null
+    },
+    {
+      "id": 64,
+      "question": "Which hotel did the man visit daily?",
+      "options": [
+        "Palace Hotel",
+        "Grand Hotel",
+        "Victoria Hotel",
+        "Dolphin Hotel"
+      ],
+      "correct": "Palace Hotel",
+      "explanation": null
+    },
+    {
+      "id": 65,
+      "question": "What did the man do the night before his execution?",
+      "options": [
+        "Planned an escape",
+        "Played poker with matches",
+        "Discussed his future",
+        "Wrote farewell letters"
+      ],
+      "correct": "Played poker with matches",
+      "explanation": null
+    },
+    {
+      "id": 66,
+      "question": "What was the condemned man's last wish?",
+      "options": [
+        "A final meal",
+        "A lawyer",
+        "To say goodbye to his wife",
+        "A drink"
+      ],
+      "correct": "To say goodbye to his wife",
+      "explanation": null
+    },
+    {
+      "id": 67,
+      "question": "From which country was the man with the scar living in exile?",
+      "options": [
+        "Guatemala",
+        "Nicaragua",
+        "Mexico",
+        "El Salvador"
+      ],
+      "correct": "Nicaragua",
+      "explanation": null
+    },
+    {
+      "id": 68,
+      "question": "How did the man with the scar earn a living?",
+      "options": [
+        "As a hotel manager",
+        "As a lottery ticket seller",
+        "As a bartender",
+        "As a soldier"
+      ],
+      "correct": "As a lottery ticket seller",
+      "explanation": null
+    }
+  ]
+}

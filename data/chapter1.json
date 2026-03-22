@@ -1,0 +1,766 @@
+{
+  "id": "chapter1",
+  "chapter": "Chapter 1",
+  "title": "The Boss Came to Dinner",
+  "author": "Bhisham Sahni",
+  "subject": "Alternative English (AEC)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the context of the story's opening, what does the phrase 'ticking off items in a long list' primarily suggest about Mr. Shamnath's character?",
+      "options": [
+        "His professional background as an accountant or clerk.",
+        "His obsessive-compulsive nature regarding cleanliness.",
+        "His anxiety to perform a flawless display of social status.",
+        "His lack of trust in his wife's ability to manage the household."
+      ],
+      "correct": "His anxiety to perform a flawless display of social status.",
+      "explanation": "The list-making highlights his desperation to impress his superior and his view of the dinner as a performance of his professional and social standing."
+    },
+    {
+      "id": 2,
+      "question": "Why does Mr. Shamnath reject his wife's suggestion to send his mother to the neighbor's house for the night?",
+      "options": [
+        "He wants his mother to meet the American boss to show off her traditional values.",
+        "He is concerned that it would facilitate a social connection he wishes to avoid.",
+        "He is genuinely concerned about his mother's comfort in an unfamiliar house.",
+        "He fears the neighbor will discover their lack of hospitality."
+      ],
+      "correct": "He is concerned that it would facilitate a social connection he wishes to avoid.",
+      "explanation": "He refers to the neighbor as a 'hag' and fears that if the mother stays there, the neighbor will start visiting their home again."
+    },
+    {
+      "id": 3,
+      "question": "The mother's refusal to eat when 'flesh is cooked' serves to highlight which literary contrast?",
+      "options": [
+        "The lack of communication between the husband and the wife regarding the menu.",
+        "The conflict between poverty and the sudden abundance of food for guests.",
+        "The generational divide between traditional dietary laws and modern lifestyle.",
+        "The mother's passive-aggressive attempt to ruin the dinner party."
+      ],
+      "correct": "The generational divide between traditional dietary laws and modern lifestyle.",
+      "explanation": "Her adherence to religious/traditional vegetarianism contrasts with the son's modern, Westernized party involving meat and alcohol."
+    },
+    {
+      "id": 4,
+      "question": "What is the significance of the mother wearing a white kameez and salwar for the party?",
+      "options": [
+        "It matches the décor that the boss's wife eventually admires.",
+        "It symbolizes her role as a widow and her son's attempt to 'standardize' her appearance.",
+        "It represents her joy and celebration for her son's impending promotion.",
+        "It was her most expensive outfit, reserved for special occasions."
+      ],
+      "correct": "It symbolizes her role as a widow and her son's attempt to 'standardize' her appearance.",
+      "explanation": "Shamnath chooses the outfit to make her look presentable and 'disciplined' according to his own meticulous, controlling standards."
+    },
+    {
+      "id": 5,
+      "question": "When Shamnath tells his mother not to 'make a song' about her sold jewellery, what does this reveal about his psychological state?",
+      "options": [
+        "He is suffering from deep-seated guilt and reacts with defensive aggression.",
+        "He believes that financial repayment is the only valid form of gratitude.",
+        "He is trying to keep his mother focused on the immediate task of dressing up.",
+        "He is genuinely forgetful of the sacrifices made for his education."
+      ],
+      "correct": "He is suffering from deep-seated guilt and reacts with defensive aggression.",
+      "explanation": "His sharp retort to her sacrifice suggests he feels the weight of the debt and chooses to lash out rather than acknowledge the emotional cost."
+    },
+    {
+      "id": 6,
+      "question": "Which word best describes the tone of the boss's interaction with the mother in the verandah?",
+      "options": [
+        "Condescending",
+        "Indifferent",
+        "Amiable",
+        "Patronizing"
+      ],
+      "correct": "Amiable",
+      "explanation": "The boss saves the awkward situation by being friendly, shaking her hand, and expressing interest in village life."
+    },
+    {
+      "id": 7,
+      "question": "What is the irony regarding the 'phulkari' mentioned in the later half of the story?",
+      "options": [
+        "The mother is actually unable to make a phulkari because she is from a city.",
+        "The phulkari is a symbol of mourning, yet the boss sees it as a celebratory item.",
+        "The boss values the craft while Shamnath views it merely as a tool for promotion.",
+        "Shamnath hates traditional crafts but has to pretend to love them."
+      ],
+      "correct": "The boss values the craft while Shamnath views it merely as a tool for promotion.",
+      "explanation": "The son, who wanted to hide his 'village' mother, finds that her 'village' skills are exactly what his boss admires most."
+    },
+    {
+      "id": 8,
+      "question": "The mother's desire to go to Hardwar is a recurring motif that represents:",
+      "options": [
+        "Her desire to escape the physical labor of the household.",
+        "Her search for spiritual peace and a graceful exit from a world she no longer fits.",
+        "Her interest in seeing the world beyond her son's suburban home.",
+        "A tactic to make Shamnath feel guilty for his poor treatment of her."
+      ],
+      "correct": "Her search for spiritual peace and a graceful exit from a world she no longer fits.",
+      "explanation": "Hardwar is a holy city where many go for meditation in their final years, symbolizing her wish to detach from her son's materialistic life."
+    },
+    {
+      "id": 9,
+      "question": "What is the primary reason the mother eventually agrees to make the phulkari for the boss?",
+      "options": [
+        "She hopes it will earn her the money she needs to travel to Hardwar.",
+        "Her self-sacrificing nature is triggered by the prospect of her son's promotion.",
+        "She is flattered by the boss's interest in her work.",
+        "She wants to prove to her daughter-in-law that she is still useful."
+      ],
+      "correct": "Her self-sacrificing nature is triggered by the prospect of her son's promotion.",
+      "explanation": "As soon as she hears that pleasing the boss might lead to a 'lift' or higher post for her son, she ignores her failing eyesight to help him."
+    },
+    {
+      "id": 10,
+      "question": "In the sentence 'Mr. Shamnath's dinner had reached the crescendo of success,' the word 'crescendo' implies:",
+      "options": [
+        "The moment when the mother started her snoring.",
+        "The formal introduction of the main course.",
+        "A noisy and chaotic ending to the party.",
+        "The point of highest intensity or peak of the evening."
+      ],
+      "correct": "The point of highest intensity or peak of the evening.",
+      "explanation": "The term suggests the party has built up successfully to a maximum level of enjoyment and approval from the guests."
+    },
+    {
+      "id": 11,
+      "question": "What does Shamnath's reaction to the mother's snoring ('seethed with anger') reveal about his priorities?",
+      "options": [
+        "He is concerned about his mother's health and breathing difficulties.",
+        "He is frustrated because he told her specifically to stay awake.",
+        "He is worried that the noise will wake up the neighbors.",
+        "He prioritizes the aesthetic and social 'perfection' of his home over human empathy."
+      ],
+      "correct": "He prioritizes the aesthetic and social 'perfection' of his home over human empathy.",
+      "explanation": "His anger stems from her ruining the 'image' he tried to create for his boss, treating her like a defective piece of furniture."
+    },
+    {
+      "id": 12,
+      "question": "How does the boss's wife serve as a character foil to Shamnath's mother?",
+      "options": [
+        "She is unfriendly and cold, making the mother appear more welcoming.",
+        "She is an American, while the mother represents the typical Indian middle class.",
+        "She represents the modernity and high social standing that Shamnath aspires to, contrasting with his mother's traditionalism.",
+        "She is more religious and traditional than the mother, showing Shamnath's poor judgment."
+      ],
+      "correct": "She represents the modernity and high social standing that Shamnath aspires to, contrasting with his mother's traditionalism.",
+      "explanation": "Her gown, pearls, perfume, and 'free' social manner contrast sharply with the mother's simple clothes, beads, and timid silence."
+    },
+    {
+      "id": 13,
+      "question": "Which detail suggests that Shamnath is a 'stickler for discipline' in a way that borders on domestic tyranny?",
+      "options": [
+        "He has the final say on everything from curtain colors to which sari his wife should wear.",
+        "He locks the door from the outside to keep his mother in her room.",
+        "He makes a long list and smokes many cigarettes while working.",
+        "He insists on serving Indian dishes to the American boss."
+      ],
+      "correct": "He has the final say on everything from curtain colors to which sari his wife should wear.",
+      "explanation": "The text lists his control over every minute detail of the house and his wife's clothing as evidence of his meticulous and controlling nature."
+    },
+    {
+      "id": 14,
+      "question": "The 'pomegranate song' incident is crucial because it represents:",
+      "options": [
+        "The transition from viewing the mother as an embarrassment to viewing her as a cultural commodity.",
+        "The mother's hidden talent as a professional singer.",
+        "The moment Shamnath realizes his mother is a burden on his career.",
+        "A failure in Shamnath's planning because she forgot the lyrics."
+      ],
+      "correct": "The transition from viewing the mother as an embarrassment to viewing her as a cultural commodity.",
+      "explanation": "The applause from the guests and the boss's delight change Shamnath's anger into joy as he sees his mother 'introduced a new note into the party.'"
+    },
+    {
+      "id": 15,
+      "question": "What is the implied meaning of 'I wash my hands of this affair' as spoken by Shamnath's wife?",
+      "options": [
+        "She is resigning from her duties as a housewife.",
+        "She is literally washing her hands because she was cleaning the bric-a-brac.",
+        "She is refusing to be blamed for any future conflict between Shamnath and his mother.",
+        "She is going to take a bath and get ready for the party."
+      ],
+      "correct": "She is refusing to be blamed for any future conflict between Shamnath and his mother.",
+      "explanation": "The phrase is used to signal that she will not participate in the decision-making or the potential 'bad name' resulting from it."
+    },
+    {
+      "id": 16,
+      "question": "The phrase 'reduced to ashes' in the mother's dialogue is an example of:",
+      "options": [
+        "A literal curse she is placing on herself.",
+        "A hint that there will be a fire later in the story.",
+        "Her anger at the way her son is treating her.",
+        "Hyperbolic traditional expression of regret."
+      ],
+      "correct": "Hyperbolic traditional expression of regret.",
+      "explanation": "It is a dramatic, culturally specific way of saying she regrets speaking in a way that her son misunderstood as asking for money."
+    },
+    {
+      "id": 17,
+      "question": "In the context of the story, why is the phulkari being 'threadbare' significant?",
+      "options": [
+        "It reflects the mother's own aging and the neglect of her traditional world.",
+        "It is the reason Shamnath decides not to show it to the boss.",
+        "It proves that the mother was a bad needlewoman.",
+        "It shows that the family was too poor to buy new things."
+      ],
+      "correct": "It reflects the mother's own aging and the neglect of her traditional world.",
+      "explanation": "The crumbling cloth symbolizes the fading of the old ways of life that Shamnath has ignored until they became useful for his promotion."
+    },
+    {
+      "id": 18,
+      "question": "What does the boss mean when he says he likes 'village folk'?",
+      "options": [
+        "He is trying to make Shamnath feel ashamed of his urban lifestyle.",
+        "He wants to move his office to a rural area.",
+        "He thinks they are more efficient workers than city people.",
+        "He views them as an exotic cultural curiosity or source of authentic craft."
+      ],
+      "correct": "He views them as an exotic cultural curiosity or source of authentic craft.",
+      "explanation": "His interest is in the songs, dances, and 'things which the women make themselves,' treating the culture as a fascinating artifact."
+    },
+    {
+      "id": 19,
+      "question": "The mother's reaction of 'tears... like monsoon showers' after the guests leave indicates:",
+      "options": [
+        "Her fear that she will be punished for her clumsy handshake.",
+        "Her immense joy at her son's success.",
+        "A release of long-suppressed emotional pain and the trauma of being treated as an obstacle.",
+        "Her regret at having sold her jewellery in the past."
+      ],
+      "correct": "A release of long-suppressed emotional pain and the trauma of being treated as an obstacle.",
+      "explanation": "The 'flood-gates of years of old pent-up feelings' implies she has been holding in the hurt of her son's dismissiveness for a long time."
+    },
+    {
+      "id": 20,
+      "question": "Shamnath's behavior of 'throwing up his hands in irritation' and 'seething with anger' suggests he views his mother primarily as:",
+      "options": [
+        "A useful domestic helper for his wife.",
+        "A source of traditional wisdom for the guests.",
+        "A beloved elder who needs protection.",
+        "A logistical obstacle to his professional ambitions."
+      ],
+      "correct": "A logistical obstacle to his professional ambitions.",
+      "explanation": "Every interaction with her is focused on how she might 'spoil the whole thing' or 'offend the boss.'"
+    },
+    {
+      "id": 21,
+      "question": "Bhisham Sahni's story is a critique of which social phenomenon?",
+      "options": [
+        "The hypocrisy and heartlessness of the upwardly mobile middle class.",
+        "The lack of educational facilities for the rural poor.",
+        "The decline of the Indian textile industry.",
+        "The difficulties faced by Americans in understanding Indian culture."
+      ],
+      "correct": "The hypocrisy and heartlessness of the upwardly mobile middle class.",
+      "explanation": "The story exposes how Shamnath values his career more than his mother's dignity and only values her when she serves his interests."
+    },
+    {
+      "id": 22,
+      "question": "Why does Shamnath insist his mother should not wear her wooden sandals?",
+      "options": [
+        "He thinks they are uncomfortable for her to stand in.",
+        "They don't match the new white kameez he chose.",
+        "They make too much noise on the verandah floors.",
+        "The boss's wife is wearing modern heels, and he wants her to match."
+      ],
+      "correct": "They make too much noise on the verandah floors.",
+      "explanation": "Wooden sandals ('kharaun') are noisy and associated with traditional/rural life, which Shamnath finds embarrassing for his 'modern' dinner."
+    },
+    {
+      "id": 23,
+      "question": "The boss's interest in the phulkari 'which the women make themselves' contrasts with Shamnath's mention of:",
+      "options": [
+        "The medals Shamnath won in college.",
+        "The Western gowns worn by the female guests.",
+        "The 'bazaar things' that the boss specifically rejects.",
+        "The Indian dishes cooked for dinner."
+      ],
+      "correct": "The 'bazaar things' that the boss specifically rejects.",
+      "explanation": "The boss wants authentic home-made items, whereas Shamnath initially struggles to think beyond commercial products or basic dolls."
+    },
+    {
+      "id": 24,
+      "question": "In the final scene, when Shamnath hugs his mother and calls her 'good Ammi,' his affection is primarily driven by:",
+      "options": [
+        "Relief and greed regarding his potential promotion.",
+        "Alcohol consumption during the party.",
+        "Guilt for having almost locked her in her room.",
+        "A sudden realization of how much he loves her."
+      ],
+      "correct": "Relief and greed regarding his potential promotion.",
+      "explanation": "He is happy because 'the Sahib was so pleased,' which he believes will lead to his career advancement."
+    },
+    {
+      "id": 25,
+      "question": "The mother's confusion during the handshake — placing her left hand in the Sahib's right — serves as a symbol for:",
+      "options": [
+        "The incompatibility of her traditional, religious life with her son's Westernized world.",
+        "The boss's misunderstanding of Indian etiquette.",
+        "Her lack of coordination due to old age.",
+        "Her attempt to insult the boss for his foreign ways."
+      ],
+      "correct": "The incompatibility of her traditional, religious life with her son's Westernized world.",
+      "explanation": "She cannot shake with her right hand because it is occupied with her prayer beads, symbolizing how her spiritual life is literally 'in the way' of her son's social requirements."
+    },
+    {
+      "id": 26,
+      "question": "What is the 'rat race' Shamnath refers to in the final conversation?",
+      "options": [
+        "A traditional Punjabi game he is explaining to his mother.",
+        "The rush to finish the phulkari before the boss returns.",
+        "The fierce and competitive struggle for professional promotion.",
+        "The literal presence of rodents in his mother's room."
+      ],
+      "correct": "The fierce and competitive struggle for professional promotion.",
+      "explanation": "It describes the cutthroat environment of his office where everyone is competing for the boss's favor."
+    },
+    {
+      "id": 27,
+      "question": "Whom does Mr. Shamnath address as the 'next-door hag'?",
+      "options": [
+        "The mother",
+        "The neighbour",
+        "The boss's wife"
+      ],
+      "correct": "The neighbour",
+      "explanation": null
+    },
+    {
+      "id": 28,
+      "question": "According to Mr. Shamnath, the guests won't start arriving before ____",
+      "options": [
+        "Seven o'clock",
+        "Nine o'clock",
+        "Eight o'clock"
+      ],
+      "correct": "Eight o'clock",
+      "explanation": null
+    },
+    {
+      "id": 29,
+      "question": "Who said the lines: 'But if she falls asleep and starts snoring! Then?'",
+      "options": [
+        "Mr. Shamnath",
+        "Mrs. Shamnath",
+        "The neighbors"
+      ],
+      "correct": "Mrs. Shamnath",
+      "explanation": null
+    },
+    {
+      "id": 30,
+      "question": "The mother was going to visit her brother, but Mrs. Shamnath interfered because she wanted to:",
+      "options": [
+        "Keep up appearances before her relatives",
+        "Keep the mother at home for her own company",
+        "Keep up appearances in front of her friends"
+      ],
+      "correct": "Keep up appearances in front of her friends",
+      "explanation": null
+    },
+    {
+      "id": 31,
+      "question": "The mother's room opened onto the ____",
+      "options": [
+        "Garden",
+        "Verandah",
+        "Bathroom"
+      ],
+      "correct": "Verandah",
+      "explanation": null
+    },
+    {
+      "id": 32,
+      "question": "Who among the following does not eat when flesh is cooked in the house?",
+      "options": [
+        "Mrs. Shamnath",
+        "The servant",
+        "The mother"
+      ],
+      "correct": "The mother",
+      "explanation": null
+    },
+    {
+      "id": 33,
+      "question": "Mr. Shamnath would be receiving ____ as his guests.",
+      "options": [
+        "The boss and his family",
+        "The boss and his American colleagues",
+        "The boss and his Indian colleagues"
+      ],
+      "correct": "The boss and his Indian colleagues",
+      "explanation": null
+    },
+    {
+      "id": 34,
+      "question": "Who was a stickler for discipline in the house and was meticulous about the smallest detail?",
+      "options": [
+        "Mrs. Shamnath",
+        "Mr. Shamnath",
+        "The mother"
+      ],
+      "correct": "Mr. Shamnath",
+      "explanation": null
+    },
+    {
+      "id": 35,
+      "question": "Mr. Shamnath told his mother to wear ____",
+      "options": [
+        "A white saree",
+        "White kameez and salwar",
+        "A pink saree"
+      ],
+      "correct": "White kameez and salwar",
+      "explanation": null
+    },
+    {
+      "id": 36,
+      "question": "Who among the following liked Indian dishes?",
+      "options": [
+        "The Memsahib",
+        "The Sahib",
+        "The Indian colleagues"
+      ],
+      "correct": "The Sahib",
+      "explanation": null
+    },
+    {
+      "id": 37,
+      "question": "What did the boss's wife wear to the dinner party?",
+      "options": [
+        "A black gown and a gold necklace",
+        "A white gown and a diamond necklace",
+        "A black gown and a white pearl necklace"
+      ],
+      "correct": "A black gown and a white pearl necklace",
+      "explanation": null
+    },
+    {
+      "id": 38,
+      "question": "Why did Shamnath not want to send the mother to their neighbours?",
+      "options": [
+        "Because they weren't nice people",
+        "Because then the neighbours would keep coming to their house",
+        "Because the neighbors weren't home"
+      ],
+      "correct": "Because then the neighbours would keep coming to their house",
+      "explanation": null
+    },
+    {
+      "id": 39,
+      "question": "Who got up awkwardly and stood before the guests with downcast eyes?",
+      "options": [
+        "The mother",
+        "Mr. Shamnath",
+        "Mrs. Shamnath"
+      ],
+      "correct": "The mother",
+      "explanation": null
+    },
+    {
+      "id": 40,
+      "question": "Mr. Shamnath was furious when his mother ____",
+      "options": [
+        "Had no bangles on",
+        "Placed her left hand in the Sahib's right hand",
+        "Wore black kameez and salwar"
+      ],
+      "correct": "Placed her left hand in the Sahib's right hand",
+      "explanation": null
+    },
+    {
+      "id": 41,
+      "question": "Who liked village folk?",
+      "options": [
+        "The boss",
+        "The boss's wife",
+        "Mrs. Shamnath"
+      ],
+      "correct": "The boss",
+      "explanation": null
+    },
+    {
+      "id": 42,
+      "question": "The mother, in a feeble cracked voice, started singing ____",
+      "options": [
+        "A pomegranate song",
+        "An old wedding song",
+        "An old folk song"
+      ],
+      "correct": "An old wedding song",
+      "explanation": null
+    },
+    {
+      "id": 43,
+      "question": "Who had introduced a new note into the party?",
+      "options": [
+        "The mother",
+        "Mrs. Shamnath",
+        "The boss's wife"
+      ],
+      "correct": "The mother",
+      "explanation": null
+    },
+    {
+      "id": 44,
+      "question": "According to Mr. Shamnath, in Punjabi homes women made ____",
+      "options": [
+        "Phulkari",
+        "Dolls",
+        "Pickle"
+      ],
+      "correct": "Phulkari",
+      "explanation": null
+    },
+    {
+      "id": 45,
+      "question": "The mother sang in a ____",
+      "options": [
+        "Sweet voice",
+        "Deep voice",
+        "Feeble cracked voice"
+      ],
+      "correct": "Feeble cracked voice",
+      "explanation": null
+    },
+    {
+      "id": 46,
+      "question": "What was the mother holding in her right hand?",
+      "options": [
+        "A book",
+        "A phone",
+        "Beads"
+      ],
+      "correct": "Beads",
+      "explanation": null
+    },
+    {
+      "id": 47,
+      "question": "What is a phulkari?",
+      "options": [
+        "A sort of embroidered piece of cloth",
+        "A type of Indian dish",
+        "A type of decorative piece for the home"
+      ],
+      "correct": "A sort of embroidered piece of cloth",
+      "explanation": null
+    },
+    {
+      "id": 48,
+      "question": "Shamnath's boss was a/an ____",
+      "options": [
+        "German",
+        "British",
+        "American"
+      ],
+      "correct": "American",
+      "explanation": null
+    },
+    {
+      "id": 49,
+      "question": "The boss asks ____ to sing an old folk song.",
+      "options": [
+        "Mrs. Shamnath",
+        "The mother",
+        "Mr. Shamnath"
+      ],
+      "correct": "The mother",
+      "explanation": null
+    },
+    {
+      "id": 50,
+      "question": "'Suddenly a problem reared up before Shamnath.' What problem is referred to here?",
+      "options": [
+        "The mother",
+        "The food arrangements",
+        "The seating plan"
+      ],
+      "correct": "The mother",
+      "explanation": null
+    },
+    {
+      "id": 51,
+      "question": "Why did the mother not want to make a phulkari for the boss?",
+      "options": [
+        "She didn't like the boss",
+        "She didn't know how to make one",
+        "Her eyesight was feeble"
+      ],
+      "correct": "Her eyesight was feeble",
+      "explanation": null
+    },
+    {
+      "id": 52,
+      "question": "Where does the mother want to be sent?",
+      "options": [
+        "Her brother's house",
+        "The neighbors' house",
+        "Hardwar"
+      ],
+      "correct": "Hardwar",
+      "explanation": null
+    },
+    {
+      "id": 53,
+      "question": "By what time had Mr. and Mrs. Shamnath arranged everything for the party?",
+      "options": [
+        "By 5 o'clock",
+        "By 6 o'clock",
+        "By 8 o'clock"
+      ],
+      "correct": "By 5 o'clock",
+      "explanation": null
+    },
+    {
+      "id": 54,
+      "question": "Why did the mother sell her jewelry?",
+      "options": [
+        "For daily cash expenses",
+        "For her son's marriage",
+        "For her son's education"
+      ],
+      "correct": "For her son's education",
+      "explanation": null
+    },
+    {
+      "id": 55,
+      "question": "What kind of a person was the mother?",
+      "options": [
+        "Highly educated",
+        "Old-fashioned",
+        "Greedy"
+      ],
+      "correct": "Old-fashioned",
+      "explanation": null
+    },
+    {
+      "id": 56,
+      "question": "Why didn't Mr. and Mrs. Shamnath want the mother to appear before the guests?",
+      "options": [
+        "Because she was unwell",
+        "Because she was an old-fashioned lady",
+        "Because she was rude to strangers"
+      ],
+      "correct": "Because she was an old-fashioned lady",
+      "explanation": null
+    },
+    {
+      "id": 57,
+      "question": "Why does the mother agree to make a phulkari in the end?",
+      "options": [
+        "Mr. Shamnath forced her",
+        "Because she genuinely wanted to",
+        "Because her son stood a chance for a raise or promotion"
+      ],
+      "correct": "Because her son stood a chance for a raise or promotion",
+      "explanation": null
+    },
+    {
+      "id": 58,
+      "question": "Why didn't Shamnath want to send his mother to Hardwar?",
+      "options": [
+        "Because she'd be lonely there",
+        "Because people would say he couldn't even give shelter to his own mother",
+        "Because they didn't have enough money"
+      ],
+      "correct": "Because people would say he couldn't even give shelter to his own mother",
+      "explanation": null
+    },
+    {
+      "id": 59,
+      "question": "What song does Shamnath suggest his mother sing for the guests?",
+      "options": [
+        "An old folk song",
+        "The pomegranate song",
+        "He didn't suggest any song"
+      ],
+      "correct": "The pomegranate song",
+      "explanation": null
+    },
+    {
+      "id": 60,
+      "question": "The mother refuses to eat dinner because ____",
+      "options": [
+        "She wasn't hungry",
+        "She was fasting for a religious occasion",
+        "She did not eat when flesh was cooked in the house"
+      ],
+      "correct": "She did not eat when flesh was cooked in the house",
+      "explanation": null
+    },
+    {
+      "id": 61,
+      "question": "Who is the author of 'The Boss Came to Dinner'?",
+      "options": [
+        "Rabindranath Tagore",
+        "Jayanta Mahapatra",
+        "Bhisham Sahni",
+        "Purushottam Lal"
+      ],
+      "correct": "Bhisham Sahni",
+      "explanation": null
+    },
+    {
+      "id": 62,
+      "question": "There would be about ____ guests, mostly his Indian colleagues and their wives.",
+      "options": [
+        "10",
+        "15",
+        "5",
+        "2"
+      ],
+      "correct": "10",
+      "explanation": null
+    },
+    {
+      "id": 63,
+      "question": "How many bangles did the mother have in the story?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correct": "None",
+      "explanation": null
+    },
+    {
+      "id": 64,
+      "question": "The guests had departed one by one at ____",
+      "options": [
+        "10 pm",
+        "11 pm",
+        "Midnight",
+        "Evening"
+      ],
+      "correct": "Midnight",
+      "explanation": null
+    },
+    {
+      "id": 65,
+      "question": "Mr. Shamnath had invited his boss to ____",
+      "options": [
+        "Lunch",
+        "Breakfast",
+        "Dinner"
+      ],
+      "correct": "Dinner",
+      "explanation": null
+    },
+    {
+      "id": 66,
+      "question": "'Bric-a-brac' means ____",
+      "options": [
+        "Bits of furniture, ornaments, etc. of no great value",
+        "The framework of a bed",
+        "Outward show of prosperity",
+        "Small interesting tales"
+      ],
+      "correct": "Bits of furniture, ornaments, etc. of no great value",
+      "explanation": null
+    }
+  ]
+}

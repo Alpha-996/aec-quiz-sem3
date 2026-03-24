@@ -1,0 +1,321 @@
+{
+  "id": "chapter3",
+  "chapter": "Chapter 3",
+  "title": "Gitanjali",
+  "author": "Rabindranath Tagore",
+  "subject": "Alternative English (AEC)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which historical event prompted Rabindranath Tagore to relinquish the knighthood bestowed upon him by the British Crown?",
+      "options": [
+        "The partition of Bengal",
+        "The Jallianwala Bagh massacre",
+        "The founding of Visva-Bharati University",
+        "The publication of the English Gitanjali"
+      ],
+      "correct": "The Jallianwala Bagh massacre",
+      "explanation": "Tagore gave up his knighthood in 1919 specifically to protest the British military's actions at Jallianwala Bagh."
+    },
+    {
+      "id": 2,
+      "question": "The title 'Gitanjali' is most accurately interpreted as which of the following?",
+      "options": [
+        "Mystical Echoes",
+        "Song Offerings",
+        "Divine Petitions",
+        "Sacred Verses"
+      ],
+      "correct": "Song Offerings",
+      "explanation": "The term is derived from 'gita' (song) and 'anjali' (offering), representing the poet's lyrical dedication to the divine."
+    },
+    {
+      "id": 3,
+      "question": "Tagore's Gitanjali is described as a synthesis of which two distinct traditions?",
+      "options": [
+        "Vedic philosophy and Enlightenment rationalism",
+        "Classical Epic and Modern Realism",
+        "Bhakti devotion and Romantic sensibility",
+        "Sufi mysticism and Victorian morality"
+      ],
+      "correct": "Bhakti devotion and Romantic sensibility",
+      "explanation": "The poems blend the intimate devotion of the Indian Bhakti movement with the nature-focused emotion of Romanticism."
+    },
+    {
+      "id": 4,
+      "question": "In 'Song XVIII', what does the 'noontide work' symbolize in relation to the speaker's spiritual journey?",
+      "options": [
+        "The warmth of the divine beloved's presence",
+        "A period of profound enlightenment",
+        "The mundane distractions of daily social life",
+        "The speaker's professional success in the world"
+      ],
+      "correct": "The mundane distractions of daily social life",
+      "explanation": "Noontide represents the 'busy moments' with 'the crowd' where the speaker's deep spiritual longing is temporarily obscured."
+    },
+    {
+      "id": 5,
+      "question": "Which spatial metaphor does the speaker use in Poem XVIII to illustrate their feeling of spiritual exclusion?",
+      "options": [
+        "Drowning in a stormy sea",
+        "Standing alone in a desert",
+        "Being lost in a thick forest",
+        "Waiting outside at the door"
+      ],
+      "correct": "Waiting outside at the door",
+      "explanation": "The speaker asks why they are left 'outside at the door,' signifying a barrier between the self and the divine."
+    },
+    {
+      "id": 6,
+      "question": "The 'dark lonely day' in Poem XVIII serves as a pathetic fallacy, mirroring which internal state of the speaker?",
+      "options": [
+        "Fear of impending death",
+        "Peaceful meditation in solitude",
+        "The anguish of spiritual desolation",
+        "Anger toward the absent beloved"
+      ],
+      "correct": "The anguish of spiritual desolation",
+      "explanation": "The 'clouds heap upon clouds' and 'darkness' reflect the speaker's feeling of being abandoned and spiritually lost."
+    },
+    {
+      "id": 7,
+      "question": "Who was the prominent Western literary figure who expressed great admiration for the 1912 English translation of Gitanjali?",
+      "options": [
+        "T.S. Eliot",
+        "W.B. Yeats",
+        "Robert Frost",
+        "Ezra Pound"
+      ],
+      "correct": "W.B. Yeats",
+      "explanation": "The renowned poet W.B. Yeats greatly admired Gitanjali upon its English publication."
+    },
+    {
+      "id": 8,
+      "question": "What is the significance of the speaker's heart 'wailing with the restless wind' in the final line of Poem XVIII?",
+      "options": [
+        "It indicates the speaker's physical illness.",
+        "It shows the speaker's unity with the natural world.",
+        "It conveys a state of unceasing spiritual agitation.",
+        "It suggests the speaker has found their voice through nature."
+      ],
+      "correct": "It conveys a state of unceasing spiritual agitation.",
+      "explanation": "The use of 'wailing' and 'restless' emphasizes that the speaker's soul is in a state of painful movement and longing."
+    },
+    {
+      "id": 9,
+      "question": "How does the speaker describe their relationship with the divine 'thou' during the 'busy moments' of the day?",
+      "options": [
+        "The divine presence is forgotten among the crowd.",
+        "They are in constant, conscious communion.",
+        "They are actively preaching to the crowd.",
+        "They feel superior to the common people around them."
+      ],
+      "correct": "The divine presence is forgotten among the crowd.",
+      "explanation": "The text implies that 'only' on the dark lonely day is the hope for 'thee' the central focus, contrasting with the social distraction of the crowd."
+    },
+    {
+      "id": 10,
+      "question": "Tagore's achievement in 1913 was historically significant because he was the first:",
+      "options": [
+        "Writer to ever win the Nobel Prize in Literature.",
+        "Poet to translate his own work into English.",
+        "Non-European to receive the Nobel Prize in Literature.",
+        "Indian to be knighted by the British Empire."
+      ],
+      "correct": "Non-European to receive the Nobel Prize in Literature.",
+      "explanation": "He was the first non-European to be honored with the Nobel Prize in Literature."
+    },
+    {
+      "id": 11,
+      "question": "In the context of the poem, the phrase 'if thou showest me not thy face' refers to:",
+      "options": [
+        "A literal meeting with a romantic partner.",
+        "The speaker's blindness during a storm.",
+        "The lack of spiritual revelation or presence.",
+        "The sun being blocked by the clouds."
+      ],
+      "correct": "The lack of spiritual revelation or presence.",
+      "explanation": "Showing the 'face' is a classic spiritual metaphor for the divine making its presence known to the seeker."
+    },
+    {
+      "id": 12,
+      "question": "The university founded by Tagore in 1921 at Shantiniketan is named:",
+      "options": [
+        "The Brahmo Samaj Academy",
+        "Visva-Bharati University",
+        "Rabindra Bharati University",
+        "Calcutta University"
+      ],
+      "correct": "Visva-Bharati University",
+      "explanation": "Visva-Bharati is the university founded by Tagore in 1921 at Shantiniketan."
+    },
+    {
+      "id": 13,
+      "question": "Based on the text, what characterizes the 'beloved' in Gitanjali?",
+      "options": [
+        "A literal person the poet was in love with.",
+        "A purely historical figure from Bengali history.",
+        "An angry and judgmental deity.",
+        "An abstract, often intimate, spiritual presence."
+      ],
+      "correct": "An abstract, often intimate, spiritual presence.",
+      "explanation": "The beloved is described as sometimes God and sometimes an abstract spiritual presence addressed with intimacy."
+    },
+    {
+      "id": 14,
+      "question": "Which phrase from the poem suggests the speaker's total dependence on the divine for emotional survival during times of hardship?",
+      "options": [
+        "I am with the crowd",
+        "I know not how I am to pass these long, rainy hours",
+        "In the busy moments of the noontide work",
+        "Clouds heap upon clouds"
+      ],
+      "correct": "I know not how I am to pass these long, rainy hours",
+      "explanation": "This indicates that without the presence of the beloved, the speaker feels incapable of enduring the passage of time."
+    },
+    {
+      "id": 15,
+      "question": "Tagore's family background is described as 'prominent' and belonging to which specific community?",
+      "options": [
+        "Buddhist",
+        "Vaishnava",
+        "Brahmo",
+        "Sufi"
+      ],
+      "correct": "Brahmo",
+      "explanation": "Tagore was born into a prominent Brahmo family in Calcutta."
+    },
+    {
+      "id": 16,
+      "question": "What does the 'far away gloom of the sky' represent for the speaker in Poem XVIII?",
+      "options": [
+        "The speaker's lack of interest in the beloved.",
+        "The arrival of peaceful nightfall.",
+        "A sign of a literal physical storm.",
+        "The immense distance between the soul and the divine."
+      ],
+      "correct": "The immense distance between the soul and the divine.",
+      "explanation": "The speaker gazes at the 'far away' gloom, emphasizing the perceived separation from the presence they seek."
+    },
+    {
+      "id": 17,
+      "question": "How many songs are contained in the collection known as Rabindra Sangeet?",
+      "options": [
+        "Over two thousand",
+        "Exactly 103",
+        "Hundreds",
+        "About 1910"
+      ],
+      "correct": "Over two thousand",
+      "explanation": "Tagore composed over two thousand songs, collectively known as Rabindra Sangeet."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following best describes the structural form of the 1912 English Gitanjali?",
+      "options": [
+        "Haikus and tankas",
+        "Prose poems",
+        "Strict Petrarchan sonnets",
+        "Epic rhyming couplets"
+      ],
+      "correct": "Prose poems",
+      "explanation": "Gitanjali (1912) is a collection of 103 prose poems in English."
+    },
+    {
+      "id": 19,
+      "question": "In Poem XVIII, why does the speaker describe themselves as 'all alone' despite being with the crowd in the 'busy moments'?",
+      "options": [
+        "Because the crowd has turned against them.",
+        "Because they were physically separated from the crowd.",
+        "Because it is night and the crowd has gone home.",
+        "Because the only company that truly matters to them is the beloved."
+      ],
+      "correct": "Because the only company that truly matters to them is the beloved.",
+      "explanation": "The speaker's loneliness is spiritual; being among people does not fulfill the longing for the 'thee' of the poem."
+    },
+    {
+      "id": 20,
+      "question": "What role does 'longing' play in the thematic structure of Poem XVIII?",
+      "options": [
+        "It is a temporary feeling caused by the bad weather.",
+        "It is the speaker's way of expressing love for a human companion.",
+        "It is a sign of weakness that the speaker eventually overcomes.",
+        "It is the central emotional force driving the speaker's restless state."
+      ],
+      "correct": "It is the central emotional force driving the speaker's restless state.",
+      "explanation": "The entire poem is described as a 'lyric of longing and spiritual desolation,' focusing on the pain of waiting."
+    },
+    {
+      "id": 21,
+      "question": "Tagore is unique in history for having composed the national anthems of:",
+      "options": [
+        "India and Britain",
+        "India and Bangladesh",
+        "India and Pakistan",
+        "Bangladesh and Sri Lanka"
+      ],
+      "correct": "India and Bangladesh",
+      "explanation": "He composed 'Jana Gana Mana' for India and 'Amar Sonar Bangla' for Bangladesh."
+    },
+    {
+      "id": 22,
+      "question": "The imagery of 'clouds heap upon clouds' in the opening line creates a sense of:",
+      "options": [
+        "Clear and logical thought processes.",
+        "Anticipation for a refreshing rain.",
+        "The beauty of the natural world.",
+        "Increasing spiritual weight or obstruction."
+      ],
+      "correct": "Increasing spiritual weight or obstruction.",
+      "explanation": "The 'heaping' and 'darkening' suggest a growing barrier or burden that keeps the speaker in a state of gloom."
+    },
+    {
+      "id": 23,
+      "question": "In what year did Rabindranath Tagore publish the Bengali Gitanjali?",
+      "options": [
+        "1910",
+        "1912",
+        "1919",
+        "1861"
+      ],
+      "correct": "1910",
+      "explanation": "The Bengali masterpiece Gitanjali was published in 1910."
+    },
+    {
+      "id": 24,
+      "question": "The speaker's 'wailing' heart and the 'restless wind' are linked to demonstrate:",
+      "options": [
+        "The speaker's lack of self-control.",
+        "The synergy between the speaker's internal turmoil and the environment.",
+        "The speaker's fear of natural disasters.",
+        "The divine beloved's anger."
+      ],
+      "correct": "The synergy between the speaker's internal turmoil and the environment.",
+      "explanation": "The poem uses nature to mirror the speaker's internal 'wandering' and 'wailing' in search of the divine."
+    },
+    {
+      "id": 25,
+      "question": "What does the speaker mean when they say they 'know not how I am to pass these long, rainy hours'?",
+      "options": [
+        "They have lost their way in the dark.",
+        "They find the absence of the divine presence unbearable.",
+        "They are afraid of the dark.",
+        "They are bored and need something to do."
+      ],
+      "correct": "They find the absence of the divine presence unbearable.",
+      "explanation": "The difficulty in 'passing' the time stems from being left 'wholly aside' by the beloved."
+    },
+    {
+      "id": 26,
+      "question": "Which term describes Tagore's multifaceted talent as a poet, musician, and philosopher?",
+      "options": [
+        "Polymath",
+        "Novelist",
+        "Prolific narrator",
+        "Mystic"
+      ],
+      "correct": "Polymath",
+      "explanation": "The text explicitly uses the term 'Bengali polymath' to describe his wide range of mastery in various fields."
+    }
+  ]
+}
